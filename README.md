@@ -1,6 +1,6 @@
 # dice_roll
 
-A new Flutter project.
+This app uses dart's 'dart:math' package to generate random numbers and based on that, the numbers on dices changes and appears on screen.
 
 ## Getting Started
 
